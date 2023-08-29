@@ -6,5 +6,7 @@ See: [https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seat
 
 There are mutiple components, including: hydrodynamics, ecosystem, climate and watershed modeling, field data collection, fisheries analysis, and ecosystem goods and services analysis. [See the landing page for a summary of included projects.](https://github.com/OyBcSt/oybcst)
 
+![Diagram of modeling components](../ProposalOutline.svg)
+
 
 *This work is a result of research funded by the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194, awarded to University of South Alabama, Mississippi State University, Auburn University, and North Carolina State University.*
